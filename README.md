@@ -11,7 +11,6 @@
 <div align="center">
  
 
-### Hi there 👋, Filip Seč
 #### IT and green technology
 I'm Filipn from Slovakia, and I do do everything related to IT and electronics. I really enjoy learning languages and new technologies like Java and Python, as well as work with neural networks . I also enjoy creating automated systems such as hydropnics, where i can explore the intersection of biology and electronics.
 
@@ -23,6 +22,7 @@ Skills: C/Java/Python/Linux/Cisco/Matlab/Kicad/Assembler
 - 📫 How to reach me: email, phone  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/filip-sec)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Filip Sec)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/we_plants_are_happy_plants_/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/filip-sec)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/we_plants_are_happy_plants_/)  
+
 
 
